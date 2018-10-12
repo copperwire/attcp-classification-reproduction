@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-#Generated data files 
-./data
+#Generated data files
+/data
