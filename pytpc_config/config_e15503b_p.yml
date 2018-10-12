@@ -4,13 +4,13 @@
 # =======================
 
 
-lut_path: ./LUT.h5
+lut_path: /home/solli-comphys/github/attpc-classification-reproduction/pytpc_config/LUT.h5
 #xcfg_root: /mnt/home/jbradt/Documents/Data/e15503b/configs
 #xcfg_path: run_0077/configure-e15503b.xcfg
-padmap_path: ./Lookup20150611.csv
-beampads_path: ./beampads_e15503b.txt
+padmap_path: /home/solli-comphys/github/attpc-classification-reproduction/pytpc_config/Lookup20150611.csv
+beampads_path: /home/solli-comphys/github/attpc-classification-reproduction/pytpc_config/beampads_e15503b.txt
 #runtables_path: /mnt/home/jbradt/Documents/Data/e15503b/e15503b-rundata-parseable.csv
-pedestals_path: ./Pedestals20150810.csv
+pedestals_path: /home/solli-comphys/github/attpc-classification-reproduction/pytpc_config/Pedestals20150810.csv
 
 # ===================
 # Detector conditions

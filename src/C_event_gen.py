@@ -32,7 +32,7 @@ gas = pytpc.gases.InterpolatedGas('isobutane', 19.2)
 POINT_CUTOFF = 30
 
 # number of events to create
-num_evts = 40000
+num_evts = 4000
 
 # doubling events generated to cushion for possibility
 # of failed event sim and small events
